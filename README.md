@@ -21,6 +21,10 @@ To become a global tech innovator building platforms that empower millions—esp
 ### 🔗 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/oluwatosin-oloyerinde-644736240)  
 - 📫 Email: d.gramjoseph@gmail.com
+
+### 🚧 Projects
+_I'm currently building full-stack and blockchain projects — stay tuned!_
+
 <!--
 **badgesultan/badgesultan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
